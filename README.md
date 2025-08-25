@@ -1,4 +1,4 @@
-#  To-Do List App
+#  To-Do List Web Page
 
 A simple and responsive **To-Do List Web App** built using **HTML, CSS, and JavaScript**.  
 It allows users to **add, edit, delete, complete, undo, and clear tasks**.  
